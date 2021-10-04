@@ -9,3 +9,6 @@ GIP repository voor stage
 ### -Account/programma opgezet m.b.v. eID
 ### -2 windows accounts klaar gezet voor nieuwe medewerkers
 ### -Computer verplaatst en gebruiksklaar gemaakt
+### -Beetje uitleg gekregen over firewall en virtuele servers
+### -Monitor gebruiksklaar gemaakt en geconnecteert met een laptop
+### -Programma voor financiële toepassingen linken en klaarmaken voor gebruik
