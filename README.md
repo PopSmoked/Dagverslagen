@@ -1,3 +1,4 @@
+![Logo Rijkevorsel](https://rijkevorsel.n-va.be/sites/afdelingen.n-va.be/files/images/n-va-rijkevorsel/logogroot.jpg)
 # GIP Dagverslagen
 GIP repository voor stage
 
