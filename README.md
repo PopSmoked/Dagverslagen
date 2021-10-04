@@ -10,5 +10,5 @@ GIP repository voor stage
 ### -2 windows accounts klaar gezet voor nieuwe medewerkers
 ### -Computer verplaatst en gebruiksklaar gemaakt
 ### -Beetje uitleg gekregen over firewall en virtuele servers
-### -Monitor gebruiksklaar gemaakt en geconnecteert met een laptop
+### -Monitor gebruiksklaar gemaakt en geconnecteert met een laptop + usb docking station
 ### -Programma voor financiële toepassingen linken en klaarmaken voor gebruik
