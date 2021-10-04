@@ -12,4 +12,4 @@ GIP repository voor stage
  * Beetje uitleg gekregen over firewall en virtuele servers
  * Monitor gebruiksklaar gemaakt en geconnecteert met een laptop + usb docking station
  * Programma voor financiële toepassingen linken en klaarmaken voor gebruik
- * Account aangemaakt met windows en office geconnect voor nog een nieuwe medewerker
+ * Account aangemaakt --> met windows en office geconnect voor nog een nieuwe medewerker
