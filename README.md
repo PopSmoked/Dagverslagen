@@ -13,3 +13,4 @@ GIP repository voor stage
  * Monitor gebruiksklaar gemaakt en geconnecteert met een laptop + usb docking station
  * Programma voor financiële toepassingen linken en klaarmaken voor gebruik
  * Account aangemaakt --> met windows en office geconnect voor nog een nieuwe medewerker
+ * Uitleg gekregen over de evolutie van hun servers
