@@ -18,4 +18,5 @@ GIP repository voor stage
 ## Dinsdag 2021/10/05<br/>
  * Telefoon terug verbonden met het lan
  * Helpen met de opbergruimte op te ruimen
+ * Schema/Topologie gekregen van het netwerk
  * Mee mogen luisteren met een vergardering i.v.m. de firewall
