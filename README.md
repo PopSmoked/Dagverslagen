@@ -20,3 +20,4 @@ GIP repository voor stage
  * Helpen met de opbergruimte op te ruimen
  * Schema/Topologie gekregen van het netwerk
  * Mee mogen luisteren met een vergardering i.v.m. de firewall
+ * Een Intel Nuc verbonden met een (tv)scherm voor informatie te tonen over Rijkevorsel
