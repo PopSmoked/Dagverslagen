@@ -16,4 +16,5 @@ GIP repository voor stage
  * Uitleg gekregen over de evolutie van hun servers
 
 ## Dinsdag 2021/10/05<br/>
- * Telefoon terug verbonden met het lan.
+ * Telefoon terug verbonden met het lan
+ * Helpen met de opbergruimte op te ruimen
