@@ -2,7 +2,7 @@
 # GIP Dagverslagen
 GIP repository voor stage
 
-## Maandag 2021/10/04<br/>
+## Maandag 2021-10-04<br/>
  * Kennismaking
  * Telefoonkabel van poort verwisselt in serverkamer
  * Uitleg gekregen i.v.m. schijven
@@ -15,15 +15,15 @@ GIP repository voor stage
  * Account aangemaakt --> met windows en office geconnect voor nog een nieuwe medewerker
  * Uitleg gekregen over de evolutie van hun servers
 
-## Dinsdag 2021/10/05<br/>
+## Dinsdag 2021-10-05<br/>
  * Telefoon terug verbonden met het lan
  * Helpen met de opbergruimte op te ruimen
  * Schema/Topologie gekregen van het netwerk
  * Mee mogen luisteren met een vergardering i.v.m. de firewall
  * Een Intel Nuc verbonden met een (tv)scherm voor informatie te tonen over Rijkevorsel
 
-## Woensdag 2021/10/06<br/>
+## Woensdag 2021-10-06<br/>
 
-## Donderdag 2021/10/07<br/>
+## Donderdag 2021-10-07<br/>
 
-## Vrijdag 2021/10/08<br/>
+## Vrijdag 2021-10-08<br/>
