@@ -23,6 +23,7 @@ GIP repository voor stage
  * Een Intel Nuc verbonden met een (tv)scherm voor informatie te tonen over Rijkevorsel
 
 ## Woensdag 2021-10-06<br/>
+ * Vergadering bijgezeten over telefonie
 
 ## Donderdag 2021-10-07<br/>
 
