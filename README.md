@@ -24,6 +24,7 @@ GIP repository voor stage
 
 ## Woensdag 2021-10-06<br/>
  * Vergadering bijgezeten over telefonie
+ * Nog een vergadering bijgezeten (Ricoh) deels over telefonie en deels over smartboxen (afhaalpunten), visuele communicatie, ...
 
 ## Donderdag 2021-10-07<br/>
 
