@@ -31,5 +31,6 @@ GIP repository voor stage
  * Meegelopen naar het ocmw omdat er een telefoon niet wertkte
  * Scherm met projector verbonden om tijdens de raad te kunnen gebruiken
  * Wachtwoorden van medewerkers verandert
+ * Laptop uit elkaar gehaald om te kunnen kijken wat er mis is met de cpu koeler
 
 ## Vrijdag 2021-10-08<br/>
