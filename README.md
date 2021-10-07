@@ -29,5 +29,6 @@ GIP repository voor stage
 ## Donderdag 2021-10-07<br/>
  * Scherm met camera verbonden voor live beelden van een bestuursraad te kunnen tonen
  * Meegelopen naar het ocmw omdat er een telefoon niet wertkte
+ * Scherm met projector verbonden om tijdens de raad te kunnen gebruiken
 
 ## Vrijdag 2021-10-08<br/>
