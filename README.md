@@ -27,5 +27,6 @@ GIP repository voor stage
  * Nog een vergadering bijgezeten (Ricoh) deels over telefonie en deels over smartboxen (afhaalpunten), visuele communicatie, ...
 
 ## Donderdag 2021-10-07<br/>
+ * Scherm met camera verbonden voor live beelden van een bestuursraad te kunnen tonen
 
 ## Vrijdag 2021-10-08<br/>
