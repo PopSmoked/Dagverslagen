@@ -34,3 +34,5 @@ GIP repository voor stage
  * Laptop uit elkaar gehaald om te kunnen kijken wat er mis is met de cpu koeler
 
 ## Vrijdag 2021-10-08<br/>
+ * Uitleg gekregen over hun gebruik van vmware
+ * Op nog een scherm windows updates en scherm updates uitgevoerd
