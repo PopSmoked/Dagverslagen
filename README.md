@@ -7,7 +7,7 @@ GIP repository voor stage
  * Telefoonkabel van poort verwisselt in serverkamer
  * Uitleg gekregen i.v.m. schijven
  * Account/programma opgezet m.b.v. eID
- * 2 windows accounts klaar gezet voor nieuwe medewerkers
+ * 2 Windows accounts klaar gezet voor nieuwe medewerkers
  * Computer verplaatst en gebruiksklaar gemaakt
  * Beetje uitleg gekregen over firewall en virtuele servers
  * Monitor gebruiksklaar gemaakt en geconnecteert met een laptop + usb docking station
@@ -35,4 +35,4 @@ GIP repository voor stage
 
 ## Vrijdag 2021-10-08<br/>
  * Uitleg gekregen over hun gebruik van vmware
- * Op nog een scherm windows updates en scherm updates uitgevoerd
+ * Op nog een scherm Windows updates en scherm updates uitgevoerd
