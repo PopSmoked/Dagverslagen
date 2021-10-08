@@ -35,4 +35,4 @@ GIP repository voor stage
 
 ## Vrijdag 2021-10-08<br/>
  * Uitleg gekregen over hun gebruik van vmware
- * Op nog een scherm Windows updates en scherm updates uitgevoerd
+ * Op een scherm Windows updates en scherm updates uitgevoerd
